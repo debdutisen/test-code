@@ -1,3 +1,5 @@
 1>from local to main push
-2>from main update to local fetch..
-hhh
+2>from main update to local fetch...mm
+3>new branch "add_point_34" created via main origin
+4>from local to branch add_point_34
+
